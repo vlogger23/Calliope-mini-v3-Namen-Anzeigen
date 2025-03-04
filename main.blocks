@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="C,Tv]+Ub2}ne|5MCM?K6" x="65" y="119"><statement name="HANDLER"><block type="device_show_leds" id="wH4DRr+`AyU6NaV=QC}3"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # . . 
+        # . . . . 
+        # # # # .
+        `</field><next><block type="device_pause" id="~GoV/hwRN%R(u3J!k|PR"><value name="pause"><shadow type="timePicker" id="@Xu+TOE21_SSBXVY_Os@"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="KxL~ZuHI.JTxkEby5|xU"><field name="LEDS">`
+        # # # . . 
+        # . # . . 
+        # # # . . 
+        # . . # . 
+        # . . # .
+        `</field><next><block type="device_pause" id="!{q|G:c*!Q!3x$)O%W[x"><value name="pause"><shadow type="timePicker" id="wWkI8i~$dLt{pJd/:04!"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="-/.;PH;_3:jH;.p,Rw]k"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id=",4t.e^!$=w;hc(p1oIR."><value name="pause"><shadow type="timePicker" id="4x3Dz^JYhvuT=UX4Nk.."><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="oNZn$oLsA#PHB/DXqMZm"><field name="LEDS">`
+        . . # # . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . . # # .
+        `</field><next><block type="device_pause" id="@T-!,$nsmX3RP[/GKmyD"><value name="pause"><shadow type="timePicker" id="K9c{%hEr[iaYXpm]9kfw"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="^Q$uQZAY!Mk;$f9f5Yd$"><field name="LEDS">`
+        # . . # . 
+        # . # . . 
+        # # . . . 
+        # . # . . 
+        # . . # .
+        `</field><next><block type="basic_show_icon" id="Vv3$FY??x)?F|YfaAWxS"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="i">IconNames.Happy</field><value name="interval"><shadow type="math_number" id="!`QmZSblTf9EM10;_Z2)"><field name="NUM">600</field></shadow></value><next><block type="device_pause" id="kpS;9O|i:u,YHxBFh{wx"><value name="pause"><shadow type="timePicker" id="dPYXJB(Oa3}U,Zw=g=im"><field name="ms">5000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
